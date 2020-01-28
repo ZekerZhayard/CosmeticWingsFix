@@ -1,0 +1,38 @@
+# Inventory names
+inventory.cosmeticwings:wings.name=Wings
+inventory.cosmeticwings:wings.label.list=Select Wings
+inventory.cosmeticwings:wings.label.scale=Wing Scale
+inventory.cosmeticwings:wings.label.particlesSpawnRate=Particles Spawn Rate
+inventory.cosmeticwings:wings.label.centre=Horizontal Offset
+inventory.cosmeticwings:wings.label.height=Vertical Offset
+inventory.cosmeticwings:wings.label.hue=Hue
+inventory.cosmeticwings:wings.label.saturation=Saturation
+inventory.cosmeticwings:wings.label.brightness=Brightness
+inventory.cosmeticwings:wings.label.author=&fAuthor:&6 %s
+inventory.cosmeticwings:wings.label.glowing=&fGlowing:&a %s
+inventory.cosmeticwings:wings.label.colourable=&fColourable:&a %s
+
+# Wings
+wings.cosmeticwings:none.name=None
+wings.cosmeticwings:black.name=Black
+wings.cosmeticwings:angel.name=Angel
+wings.cosmeticwings:shana.name=Shana
+wings.cosmeticwings:flandre.name=Flandre
+wings.cosmeticwings:metal.name=Metal
+wings.cosmeticwings:kuroyukihime.name=Kuroyukihime
+wings.cosmeticwings:small_mech.name=Small Mech
+wings.cosmeticwings:mech.name=Mech
+wings.cosmeticwings:butterflyblue.name=Blue Butterfly
+wings.cosmeticwings:bat.name=Bat
+wings.cosmeticwings:gold.name=Gold
+wings.cosmeticwings:devil.name=Devil
+wings.cosmeticwings:emerald.name=Emerald
+wings.cosmeticwings:littleangel.name=Little Angel
+wings.cosmeticwings:phoenix.name=Phoenix
+
+# Flavour
+#wings.cosmeticwings:shana.flavour=Test flavour text
+
+# Keybindings
+keys.cosmeticwings:category=Cosmetic Wings
+keys.cosmeticwings.wingsGui=Open Wing GUI

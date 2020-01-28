@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "cosmeticwingsfix",
+    "name": "CosmeticWingsFix",
+    "description": "Fix HYT Cosmetic Wings.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "ZekerZhayard"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

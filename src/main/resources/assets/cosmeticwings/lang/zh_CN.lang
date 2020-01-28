@@ -1,0 +1,32 @@
+# Inventory names
+inventory.cosmeticwings:wings.name=翅膀
+inventory.cosmeticwings:wings.label.list=选择翅膀
+inventory.cosmeticwings:wings.label.scale=翅膀尺寸
+inventory.cosmeticwings:wings.label.particlesSpawnRate=粒子生成速度
+inventory.cosmeticwings:wings.label.centre=水平偏移
+inventory.cosmeticwings:wings.label.height=垂直偏移
+inventory.cosmeticwings:wings.label.hue=色调
+inventory.cosmeticwings:wings.label.saturation=饱和度
+inventory.cosmeticwings:wings.label.brightness=亮度
+inventory.cosmeticwings:wings.label.author=&f作者:&6 %s
+inventory.cosmeticwings:wings.label.glowing=&f可发光:&a %s
+inventory.cosmeticwings:wings.label.colourable=&f可调色:&a %s
+
+# Wings
+wings.cosmeticwings:none.name=无
+wings.cosmeticwings:black.name=黑天使之翼
+wings.cosmeticwings:angel.name=天使之翼
+wings.cosmeticwings:shana.name=夏娜
+wings.cosmeticwings:flandre.name=芙兰朵露
+wings.cosmeticwings:metal.name=金属
+wings.cosmeticwings:kuroyukihime.name=黑雪姬
+wings.cosmeticwings:butterflyblue.name=冰雪之翼
+wings.cosmeticwings:bat.name=蝙蝠之翼
+wings.cosmeticwings:gold.name=黄金之翼
+wings.cosmeticwings:devil.name=恶魔之翼
+wings.cosmeticwings:emerald.name=晶翠之翼
+wings.cosmeticwings:phoenix.name=火凤凰之翼
+
+# Keybindings
+keys.cosmeticwings:category=Cosmetic Wings
+keys.cosmeticwings.wingsGui=打开翅膀界面

@@ -1,0 +1,8 @@
+io.github.zekerzhayard.cosmeticwingsfix.asm.transformers.ClientProxyTransformer
+io.github.zekerzhayard.cosmeticwingsfix.asm.transformers.ClientWingsCacheTransformer
+io.github.zekerzhayard.cosmeticwingsfix.asm.transformers.GuiDropDownListTransformer
+io.github.zekerzhayard.cosmeticwingsfix.asm.transformers.GuiScreen_1Transformer
+io.github.zekerzhayard.cosmeticwingsfix.asm.transformers.GuiScreen_2Transformer
+io.github.zekerzhayard.cosmeticwingsfix.asm.transformers.KeyboardHandlerTransformer
+io.github.zekerzhayard.cosmeticwingsfix.asm.transformers.SuperClassTransformer
+io.github.zekerzhayard.cosmeticwingsfix.asm.transformers.WingRenderManagerTransformer
